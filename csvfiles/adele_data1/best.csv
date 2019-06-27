@@ -1,0 +1,10 @@
+Porject: adele data: data1 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+cnn1,0.78754,0.19392,0.81802,0.09383,0.08781,0.05419,From epoch 23
+cnn2,0.81025,0.30694,0.82101,0.1405,0.11189,0.0681,From epoch 22
+cnn3,0.81548,0.32747,0.82397,0.16515,0.12056,0.07848,From epoch 24
+lstm,0.84426,0.471,0.85648,0.3579,0.15006,0.10886,From epoch 23
+mem,0.85008,0.50482,0.86315,0.39975,0.16548,0.11929,From epoch 25
+g,0.8423,0.45549,0.85483,0.35547,0.14226,0.10627,From epoch 21
+mem_g,0.85632,0.52111,0.8679,0.42073,0.16877,0.12075,From epoch 23
+g_gcn,0.8396,0.45227,0.85433,0.35198,0.15322,0.11163,From epoch 21
+mem_g_gcn,0.84751,0.48636,0.85866,0.37415,0.15982,0.11434,From epoch 22

@@ -1,0 +1,6 @@
+Project: bee data: N_data8 Best,Train AUC,Test AUC
+lstm_b,0.54285,0.27166,From epoch 7
+mem_b,0.56832,0.27119,From epoch 10
+mem_g_b,0.51933,0.27116,From epoch 13
+g_gcn_b,0.507,0.28964,From epoch 10
+mem_g_gcn_b,0.50078,0.28233,From epoch 13

@@ -1,0 +1,7 @@
+Porject: Wuhan data: data8 Epoch: 5,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+lstm,0.87583,0.61483,0.87178,0.51438,0.56964,0.2747
+mem,0.88306,0.63789,0.88318,0.47132,0.57209,0.26652
+g,0.87943,0.6182,0.8695,0.50393,0.566,0.28442
+mem_g,0.8817,0.63318,0.88547,0.50778,0.58568,0.29115
+g_gcn,0.8789,0.62901,0.89245,0.50373,0.57032,0.26383
+mem_g_gcn,0.0,0.0,0.0,0.0,0.00331,0.0036

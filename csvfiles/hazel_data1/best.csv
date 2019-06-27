@@ -1,0 +1,9 @@
+Porject: hazel data: data1 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+cnn2,0.80594,0.29549,0.82098,0.13434,0.11571,0.06677,From epoch 19
+cnn3,0.81017,0.31503,0.82256,0.14449,0.11253,0.06902,From epoch 19
+lstm,0.84135,0.46303,0.85405,0.35081,0.14938,0.10659,From epoch 15
+mem,0.8239,0.39188,0.84352,0.28698,0.13598,0.09772,From epoch 13
+g,0.83137,0.42098,0.84692,0.31034,0.14452,0.1006,From epoch 14
+mem_g,0.84152,0.46511,0.85357,0.3504,0.1556,0.10941,From epoch 15
+g_gcn,0.8324,0.42693,0.84813,0.31735,0.14304,0.09829,From epoch 14
+mem_g_gcn,0.85557,0.52021,0.86391,0.40473,0.17019,0.11861,From epoch 16

@@ -1,0 +1,7 @@
+Porject: Suzhou data: data7 Epoch: 20,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+lstm,0.85556,0.49167,0.8135,0.35238,0.42686,0.21575
+mem,0.8614,0.52139,0.81222,0.34718,0.44899,0.2143
+g,0.85739,0.49707,0.81706,0.34839,0.42945,0.22055
+mem_g,0.85667,0.49549,0.81698,0.34481,0.43351,0.21387
+g_gcn,0.8589,0.50826,0.81383,0.3385,0.44252,0.21052
+mem_g_gcn,0.85825,0.50553,0.81297,0.34797,0.43143,0.2181

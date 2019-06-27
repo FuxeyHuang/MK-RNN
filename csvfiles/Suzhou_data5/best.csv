@@ -1,0 +1,8 @@
+Porject: Suzhou data: data5 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+lstm,0.81577,0.31228,0.81615,0.20895,0.31201,0.16804,From epoch 6
+mem,0.82219,0.34832,0.81176,0.23372,0.33695,0.17396,From epoch 6
+g,0.82459,0.34321,0.81028,0.23191,0.32597,0.16977,From epoch 7
+mem_g,0.81024,0.27566,0.81556,0.22474,0.28533,0.17657,From epoch 5
+g_gcn,0.80737,0.26495,0.8105,0.21669,0.27951,0.1717,From epoch 3
+mem_g_gcn,0.82497,0.34741,0.81828,0.23937,0.3344,0.17701,From epoch 6
+lstm_t,0.81421,0.31129,0.81555,0.22315,0.3069,0.16982,From epoch 5

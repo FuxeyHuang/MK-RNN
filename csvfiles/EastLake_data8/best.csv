@@ -1,0 +1,16 @@
+Porject: EastLake data: data8 Best,Train AUC,Test AUC
+cnn1,0.47648,0.23359,From epoch 4
+cnn2,0.47294,0.22779,From epoch 4
+cnn3,0.47343,0.24006,From epoch 6
+lstm,0.587,0.28688,From epoch 11
+mem,0.59318,0.28712,From epoch 11
+g,0.53372,0.29898,From epoch 15
+mem_g,0.51042,0.29098,From epoch 7
+g_gcn,0.51999,0.28442,From epoch 11
+mem_g_gcn,0.52701,0.30547,From epoch 11
+lstm_t,0.58975,0.27731,From epoch 13
+mem_t,0.60819,0.28327,From epoch 15
+g_t,0.53473,0.30099,From epoch 15
+mem_g_t,0.55217,0.29442,From epoch 21
+g_gcn_t,0.53315,0.28975,From epoch 13
+mem_g_gcn_t,0.5481,0.30583,From epoch 21

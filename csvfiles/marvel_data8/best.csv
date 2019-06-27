@@ -1,0 +1,6 @@
+Porject: marvel data: data8 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+mem,0.86106,0.55182,0.90388,0.54221,0.49656,0.28278,From epoch 6
+g,0.85863,0.55019,0.90236,0.55292,0.50046,0.28891,From epoch 6
+mem_g,0.83772,0.44602,0.90716,0.48072,0.42107,0.26215,From epoch 6
+g_gcn,0.85855,0.53764,0.90299,0.57369,0.48449,0.28979,From epoch 5
+mem_g_gcn,0.0,0.0,0.0,0.0,0.0034,0.00361,From epoch 4

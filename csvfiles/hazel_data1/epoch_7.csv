@@ -1,0 +1,4 @@
+Porject: hazel data: data1 Epoch: 7,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+cnn2,0.78692,0.19349,0.81544,0.07506,0.08607,0.04943
+cnn3,0.78785,0.19709,0.81631,0.07852,0.07912,0.05027
+mem_g_gcn,0.79769,0.26424,0.82043,0.1448,0.10547,0.06519

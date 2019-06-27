@@ -1,0 +1,2 @@
+Project: cnn_final data: data8 Best,Train AUC,Test AUC
+cnn3,0.49113,0.23463,From epoch 8

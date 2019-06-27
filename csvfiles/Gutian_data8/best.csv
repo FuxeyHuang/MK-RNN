@@ -1,0 +1,3 @@
+Porject: Gutian data: data8 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+g_gcn,0.87391,0.60322,0.90111,0.52657,0.53444,0.29427,From epoch 14
+mem_g_gcn,0.87113,0.58659,0.89842,0.56419,0.52819,0.29606,From epoch 10

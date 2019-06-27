@@ -1,0 +1,2 @@
+Project: bilstm_final data: data8 Best,Train AUC,Test AUC
+lstm_b,0.54902,0.28923,From epoch 4

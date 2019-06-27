@@ -1,0 +1,2 @@
+Project: transformer_originalgcn data: data8 Best,Train AUC,Test AUC
+mem_g_gcn_t3,0.44113,0.28562,From epoch 15

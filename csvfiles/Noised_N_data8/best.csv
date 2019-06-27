@@ -1,0 +1,4 @@
+Project: Noised data: N_data8 Best,Train AUC,Test AUC
+lstm,0.51829,0.26009,From epoch 5
+g,0.49312,0.2838,From epoch 11
+mem_g_gcn,0.45187,0.24961,From epoch 6

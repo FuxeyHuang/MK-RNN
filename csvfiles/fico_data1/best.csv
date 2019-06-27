@@ -1,0 +1,6 @@
+Porject: fico data: data1 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+lstm,0.89278,0.64212,0.90868,0.60793,0.47311,0.36671,From epoch 102
+mem,0.89786,0.66304,0.916,0.64348,0.47946,0.38207,From epoch 104
+g,0.90398,0.6798,0.91538,0.63936,0.51186,0.38364,From epoch 107
+mem_g,0.91011,0.70373,0.92632,0.69365,0.50049,0.39568,From epoch 107
+mem_g_gcn,0.90619,0.68206,0.92271,0.67716,0.49466,0.37804,From epoch 105

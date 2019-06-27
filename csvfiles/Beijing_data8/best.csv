@@ -1,0 +1,13 @@
+Project: Beijing data: data8 Best,Train AUC,Test AUC
+lstm_t1,0.54577,0.24368,From epoch 7
+mem_t1,0.52392,0.26751,From epoch 6
+g_t1,0.41888,0.25992,From epoch 5
+mem_g_t1,0.42191,0.27292,From epoch 6
+mem_g_gcn_t1,0.20972,0.1927,From epoch 0
+mem_g_gcn_t3,0.46989,0.29723,From epoch 11
+lstm_b,0.49353,0.29042,From epoch 2
+mem_b,0.59824,0.30334,From epoch 11
+g_b,0.53529,0.30578,From epoch 12
+mem_g_b,0.54805,0.31796,From epoch 13
+g_gcn_b,0.54278,0.31532,From epoch 13
+mem_g_gcn_b,0.52933,0.31237,From epoch 10

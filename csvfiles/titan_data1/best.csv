@@ -1,0 +1,10 @@
+Porject: titan data: data1 Best,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+cnn1,0.77514,0.12443,0.82222,0.10228,0.07477,0.06001,From epoch 14
+cnn2,0.80827,0.32019,0.84444,0.28537,0.13734,0.11647,From epoch 25
+cnn3,0.81287,0.35247,0.8429,0.29059,0.15425,0.12509,From epoch 25
+lstm,0.96441,0.90176,0.96384,0.87073,0.33266,0.31045,From epoch 21
+mem,0.96596,0.90746,0.96577,0.88138,0.34231,0.31611,From epoch 19
+g,0.95818,0.88402,0.95806,0.84834,0.32888,0.2943,From epoch 18
+mem_g,0.96282,0.89829,0.96258,0.86767,0.33343,0.30261,From epoch 19
+g_gcn,0.96542,0.90564,0.96523,0.87772,0.34418,0.31444,From epoch 19
+mem_g_gcn,0.96958,0.91801,0.96876,0.89145,0.34667,0.32172,From epoch 20

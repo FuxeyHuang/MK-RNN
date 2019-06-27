@@ -1,0 +1,5 @@
+Project: human_startup data: dataX Best,Train AUC,Test AUC
+lstm,0.56122,0.26021,From epoch 9
+mem,0.57061,0.2785,From epoch 8
+g,0.52198,0.27594,From epoch 18
+mem_g_gcn,0.51361,0.25958,From epoch 12

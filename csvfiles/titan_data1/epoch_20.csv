@@ -1,0 +1,5 @@
+Porject: titan data: data1 Epoch: 20,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+cnn2,0.79918,0.27523,0.83665,0.23426,0.12547,0.10397
+cnn3,0.80098,0.29746,0.83444,0.23244,0.13704,0.10612
+lstm,0.96066,0.89068,0.96212,0.86508,0.32758,0.30076
+mem_g_gcn,0.96958,0.91801,0.96876,0.89145,0.34667,0.32172

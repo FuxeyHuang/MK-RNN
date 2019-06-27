@@ -1,0 +1,6 @@
+Porject: hugo data: data8 Epoch: 10,Train acuracy (with NA),Train acuracy (without NA),Test acuracy (with NA),Test acuracy (without NA),Train AUC,Test AUC
+lstm,0.91571,0.74612,0.87856,0.43027,0.65686,0.27005
+mem,0.91549,0.74639,0.88153,0.47409,0.65762,0.26681
+mem_g,0.91526,0.74536,0.87169,0.44263,0.65552,0.28305
+g_gcn,0.91542,0.74753,0.86303,0.48459,0.65343,0.27053
+mem_g_gcn,0.91674,0.74498,0.89965,0.45699,0.65733,0.26285

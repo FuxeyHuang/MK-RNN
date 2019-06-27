@@ -1,0 +1,5 @@
+Project: transformer_final data: data8 Best,Train AUC,Test AUC
+lstm_t3,0.51789,0.27589,From epoch 7
+mem_t3,0.53335,0.26766,From epoch 9
+g_t3,0.45866,0.27566,From epoch 12
+mem_g_gcn_t3,0.46132,0.28799,From epoch 14
